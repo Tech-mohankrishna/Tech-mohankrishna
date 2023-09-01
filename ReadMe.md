@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: MOHAN KRISHNA N D
 🔭 I’m currently  an Undergrad student from PES University, Bangalore<br>🌱 I’m currently working on VLSI ASIC design<br>💬 Ask me about verilog, systemverilog, FPGA, C, Hardware Programming
 
 
